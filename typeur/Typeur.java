@@ -10,7 +10,6 @@ import java.util.Map.Entry;
 import termes.LambdaTerm;
 import termes.Operator;
 import termes.Sequence;
-import test.Main;
 import types.Type;
 import unificateur.ResUnif;
 import unificateur.Unificateur;
